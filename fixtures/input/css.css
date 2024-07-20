@@ -3,8 +3,14 @@
   }
   
  .bd-examples>[class^="col-"]  {
-  padding-right: .75rem;
-    padding-left: .75rem;
+  	padding-right: .75rem;
+  						padding-left: .75rem;
   
   }
+
+  .bd-examples  {
+	padding-top: .75rem;
+						padding-bottom: .75rem;
+
+}
 }
